@@ -38,7 +38,7 @@ It shows:
 
 ### 1. Clone & setup
 ```bash
-git clone https://github.com/<your-username>/calc-research-agent.git
+git clone https://github.com/arinjayjha/calc-research-agent.git
 cd calc-research-agent
 python -m venv .venv
 source .venv/bin/activate   # On Windows: .venv\Scripts\activate
