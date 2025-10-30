@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Streamlit
+.streamlit/
+
+# VSCode/OS
+.vscode/
+.DS_Store
+
+# Python packaging
+*.egg-info/
